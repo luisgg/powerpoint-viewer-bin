@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7.0)
 Standards-Version: 3.8.4
 
 Package: powerpoint-viewer-bin
-Architecture: any
+Architecture: all
 Depends: ${misc:Depends}
 Description: Microsoft PowerPointViewer binary
  This package contains Microsoft PowerPointViewer
